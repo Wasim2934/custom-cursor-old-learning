@@ -4,7 +4,7 @@ A clean and modern UI mini project where the default mouse cursor is replaced wi
 animated circle that follows the pointer and blends uniquely with the background using  
 `mix-blend-mode: difference`, creating a glowing inverse-color effect.
 
-##  Live Demo - - https://wasim2934.github.io/custom-cursor/
+##  Live Demo - https://wasim2934.github.io/custom-cursor/
 
 ## Features
 
